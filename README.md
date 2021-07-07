@@ -47,7 +47,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/levi-sr93/post-text-message-application/main/src/assets/images/signIn.png">
+    <img src="https://raw.githubusercontent.com/levi-sr93/post-text-message-application/main/src/assets/images/signIn.png" alt="Logo" width="1000">
+  </a>
+</p>
+<p align="center">
+  <a href="https://raw.githubusercontent.com/levi-sr93/post-text-message-application/main/src/assets/images/feed.png">
+    <img src="https://raw.githubusercontent.com/levi-sr93/post-text-message-application/main/src/assets/images/feed.png" alt="Logo" width="1000">
+  </a>
+</p>
 
 Project to post text messages and see other users posts. 
 
