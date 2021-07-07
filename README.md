@@ -1,10 +1,10 @@
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/levi-sr93/]
+[https://www.linkedin.com/in/levi-sr93/]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://raw.githubusercontent.com/levi-sr93/post-text-message-application/main/src/assets/images/logo.svg">
+    <img src="https://raw.githubusercontent.com/levi-sr93/post-text-message-application/main/src/assets/images/logo.svg" alt="Logo" width="150">
   </a>
 
   <h3 align="center">Post Text Messages App</h3>
@@ -70,21 +70,23 @@ This section should list any major frameworks that you built your project using.
 * Node ( v14.15.4 was used in this project )
 * Npm / Yarn
 * 
-<!-- GETTING STARTED -->
+
 ## Getting Started
 
   * Clone this repo
-    ```sh
-  git clone 
+  ```sh
+  git clone https://github.com/levi-sr93/post-text-message-application
   ```
 
 ### Installation
 
 1. See the `.env.example` to fullfill the right data in the `.env` - (remember to create the .env) to make it run nicely;
 2. Make sure to be in the project root folder
+
    ```sh
    cd (project-name)
    ```
+   
 3. Install all dependencies
  ```sh
    yarn
