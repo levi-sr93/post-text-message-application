@@ -1,6 +1,6 @@
-[https://www.linkedin.com/in/levi-sr93/]
 
 <!-- PROJECT LOGO -->
+
 <br />
 <p align="center">
   <a href="https://raw.githubusercontent.com/levi-sr93/post-text-message-application/main/src/assets/images/logo.svg">
